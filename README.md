@@ -19,3 +19,14 @@ including foreign companies' ADRs; OTC-traded names are not counted as listed.
 
 Data comes from the TradingView global screener. Companies with no analyst revenue estimate
 cannot be tested for expected growth and are left out. The CSVs hold the runs of 2026-11-26.
+
+## Forward-looking variant (US and Canadian listings)
+
+`screen_forward.py` keeps the size and revenue / market cap tests but looks ahead:
+
+- forward growth > 25% — consensus revenue for the next two unreported quarters vs. the same
+  two quarters a year earlier
+- ranked by forward net margin — consensus EPS x shares / consensus revenue over those quarters
+
+The data source has no consensus operating profit, so the forward margin is a net margin
+(usually on adjusted earnings). Output: `results_us_canada_forward.csv`.

@@ -1,0 +1,204 @@
+rank,symbol,primary_listing,company,country,sector,industry,market_cap_usd_m,revenue_ttm_usd_m,revenue_to_mcap,next_2q_revenue_est_usd_m,same_2q_year_ago_usd_m,forward_growth_pct,forward_net_margin_pct,net_margin_ttm_pct,operating_margin_ttm_pct,last_reported_period
+1,NASDAQ:IMPP,True,"Imperial Petroleum, Inc.",Greece,Transportation,Marine Shipping,179.3,241.4,1.35,150.9,92.6,63.0,51.09,36.33,34.18,2026-Q2
+2,NYSE:VIST,False,Vista Energy SAB de CV Sponsored ADR Class A,Mexico,Energy Minerals,Oil & Gas Production,5485.9,4099.7,0.75,2403.1,1586.6,51.5,30.58,19.64,40.26,2026-Q3
+3,NYSE:INR,True,"Infinity Natural Resources, Inc. Class A",United States,Energy Minerals,Integrated Oil,718.6,640.5,0.89,392.5,271.9,44.3,30.28,7.87,44.69,2026-Q3
+4,TSX:JAG,True,Jaguar Mining Inc.,Canada,Non-Energy Minerals,Precious Metals,195.0,189.9,0.97,133.5,80.2,66.5,28.72,6.37,21.29,2026-Q3
+5,NYSE:PBR,False,Petroleo Brasileiro SA Sponsored ADR,Brazil,Energy Minerals,Integrated Oil,94587.6,113654.7,1.2,61542.0,47140.4,30.6,24.78,23.95,36.54,2026-Q3
+6,NYSE:MTDR,True,Matador Resources Company,United States,Energy Minerals,Integrated Oil,5932.5,4315.1,0.73,2648.0,1751.2,51.2,24.59,16.67,38.64,2026-Q3
+7,NASDAQ:CENX,True,Century Aluminum Company,United States,Non-Energy Minerals,Aluminum,2923.3,2996.2,1.02,2004.7,1282.9,56.3,23.87,29.74,21.05,2026-Q3
+8,NYSE:SM,True,SM Energy Company,United States,Energy Minerals,Integrated Oil,6780.3,6594.0,0.97,4087.7,2184.0,87.2,23.74,14.23,38.23,2026-Q3
+9,NYSE:ZIM,True,ZIM Integrated Shipping Services Ltd.,Israel,Transportation,Marine Shipping,3725.6,7373.9,1.98,4513.0,2881.2,56.6,23.51,11.47,17.11,2026-Q3
+10,TSXV:CERT,True,Cerrado Gold Inc,Canada,Non-Energy Minerals,Precious Metals,177.5,227.3,1.28,126.3,97.8,29.2,22.92,17.98,26.92,2026-Q3
+11,AMEX:REI,True,"Ring Energy, Inc.",United States,Energy Minerals,Integrated Oil,265.8,347.6,1.31,197.5,140.6,40.5,22.43,-53.3,36.48,2026-Q3
+12,NYSE:CRGY,True,Crescent Energy Company Class A,United States,Energy Minerals,Integrated Oil,4528.7,4794.0,1.06,2894.7,2047.9,41.4,21.57,1.3,29.92,2026-Q3
+13,NYSE:NOG,True,"Northern Oil and Gas, Inc.",United States,Energy Minerals,Oil & Gas Production,2422.9,2375.4,0.98,1304.8,994.9,31.1,21.02,-19.73,33.98,2026-Q3
+14,NYSE:GRNT,True,"Granite Ridge Resources, Inc.",United States,Energy Minerals,Oil & Gas Production,752.1,560.2,0.74,365.0,233.7,56.1,19.43,-9.4,25.94,2026-Q3
+15,TSXV:ITR,True,Integra Resources Corp,Canada,Non-Energy Minerals,Precious Metals,296.6,253.5,0.85,171.0,113.5,50.7,19.34,12.18,23.26,2026-Q3
+16,TSX:MX,True,Methanex Corporation,Canada,Process Industries,Chemicals: Specialty,4758.3,4607.5,0.97,2662.1,1886.7,41.1,18.94,7.66,22.64,2026-Q3
+17,TSX:CVE,True,Cenovus Energy Inc.,Canada,Energy Minerals,Integrated Oil,48725.5,39785.3,0.82,23607.8,16320.7,44.6,17.92,15.42,20.91,2026-Q3
+18,NASDAQ:NFE,True,New Fortress Energy Inc. Class A,United States,Utilities,Gas Distributors,82.9,1271.0,15.33,1430.1,622.7,129.7,17.69,-67.46,-17.8,2026-Q3
+19,NASDAQ:BLNE,True,"Beeline Holdings, Inc.",United States,Commercial Services,Advertising/Marketing Services,11.9,10.7,0.9,22.1,5.1,336.9,16.08,-201.08,-200.38,2026-Q3
+20,NYSE:PAM,False,Pampa Energia SA Sponsored ADR,Argentina,Utilities,Electric Utilities,3700.8,2631.2,0.71,1374.1,1081.8,27.0,15.92,25.59,20.89,2026-Q3
+21,TSX:IPO,True,InPlay Oil Corp,Canada,Energy Minerals,Integrated Oil,303.5,244.6,0.81,173.2,104.0,66.5,15.69,-3.11,19.2,2026-Q3
+22,NASDAQ:GLBS,True,Globus Maritime Limited,Greece,Transportation,Marine Shipping,50.7,55.4,1.09,34.7,25.7,35.0,15.55,18.02,24.73,2026-Q3
+23,TSX:LCFS,True,Tidewater Renewables Ltd.,Canada,Process Industries,Chemicals: Specialty,505.7,385.4,0.76,190.6,104.2,83.1,14.73,-2.61,24.74,2026-Q3
+24,NYSE:TALO,True,"Talos Energy, Inc.",United States,Energy Minerals,Oil & Gas Production,2476.9,2125.4,0.86,1271.0,864.5,47.0,14.72,-18.37,14.45,2026-Q3
+25,NASDAQ:PROP,True,Prairie Operating Co.,United States,Energy Minerals,Integrated Oil,33.3,394.8,11.86,231.6,166.4,39.2,14.66,-25.61,39.93,2026-Q3
+26,TSX:IMO,True,Imperial Oil Limited,Canada,Energy Minerals,Integrated Oil,54913.6,38541.5,0.7,22854.5,16094.6,42.0,14.39,11.07,13.97,2026-Q3
+27,NASDAQ:RPAY,True,Repay Holdings Corp. Class A,United States,Commercial Services,Miscellaneous Commercial Services,368.6,413.5,1.12,310.5,159.4,94.8,14.22,-41.2,2.1,2026-Q3
+28,NASDAQ:PSHG,True,Performance Shipping Inc.,Greece,Transportation,Marine Shipping,22.4,113.1,5.06,58.6,44.7,31.1,14.0,31.86,41.83,2026-Q2
+29,NASDAQ:NXST,True,"Nexstar Media Group, Inc.",United States,Consumer Services,Broadcasting,6446.2,6811.0,1.06,4317.4,2685.0,60.8,13.89,5.07,20.78,2026-Q3
+30,NASDAQ:STLD,True,"Steel Dynamics, Inc.",United States,Non-Energy Minerals,Steel,30841.3,22219.9,0.72,13041.2,9618.9,35.6,13.31,8.82,11.5,2026-Q3
+31,NASDAQ:USEA,True,United Maritime Corp.,Greece,Transportation,Marine Shipping,30.4,36.5,1.2,22.3,14.5,53.4,13.27,0.9,14.79,2026-Q3
+32,TSXV:GSVR,True,Guanajuato Silver Company Ltd.,Canada,Non-Energy Minerals,Precious Metals,101.4,147.9,1.46,118.3,63.7,85.6,12.82,-9.91,1.65,2026-Q3
+33,NYSE:TTE,False,TotalEnergies SE,France,Energy Minerals,Integrated Oil,191052.9,209183.2,1.09,123607.5,95242.2,29.8,12.62,10.46,16.74,2026-Q3
+34,TSXV:BRM,True,Biorem Inc.,Canada,Producer Manufacturing,Industrial Machinery,52.4,39.4,0.75,21.3,16.7,28.0,12.54,13.82,18.46,2026-Q3
+35,NASDAQ:AMCX,True,AMC Global Media Inc. Class A,United States,Consumer Services,Cable/Satellite TV,367.8,2250.5,6.12,1437.1,1136.9,26.4,12.38,-6.38,6.9,2026-Q3
+36,NASDAQ:BHF,True,"Brighthouse Financial, Inc.",United States,Finance,Life/Health Insurance,2391.9,5691.0,2.38,4310.3,3216.0,34.0,12.34,11.95,16.62,2026-Q3
+37,TSX:PRL,True,"Propel Holdings, Inc.",Canada,Technology Services,Packaged Software,695.3,685.3,0.99,430.6,312.6,37.7,12.26,8.69,16.68,2026-Q3
+38,NASDAQ:CHA,True,Chagee Holdings Limited Unsponsored ADR,China,Consumer Non-Durables,Food: Major Diversified,2083.1,1881.5,0.9,1116.3,867.7,28.6,12.05,10.25,11.4,2026-Q2
+39,NYSE:HPE,True,Hewlett Packard Enterprise Co.,United States,Electronic Technology,Computer Processing Hardware,53719.1,46711.0,0.87,28742.8,19983.0,43.8,11.86,9.49,10.48,2026-Q4
+40,NYSE:EQNR,False,Equinor ASA Sponsored ADR,Norway,Energy Minerals,Integrated Oil,92857.2,120888.1,1.3,73058.3,53400.8,36.8,11.4,9.79,32.74,2026-Q3
+41,NASDAQ:TBCH,True,Turtle Beach Corporation,United States,Consumer Durables,Electronics/Appliances,280.8,302.0,1.08,223.9,161.0,39.1,11.38,-0.17,3.48,2026-Q3
+42,NYSE:VLO,True,Valero Energy Corporation,United States,Energy Minerals,Oil Refining/Marketing,90079.7,153968.0,1.71,79166.1,62983.0,25.7,11.35,8.38,11.97,2026-Q3
+43,NYSE:PARR,True,Par Pacific Holdings Inc,United States,Energy Minerals,Oil Refining/Marketing,2985.6,9658.3,3.23,4692.5,3637.0,29.0,11.17,9.81,14.01,2026-Q3
+44,NASDAQ:PENG,True,Penguin Solutions Incorporation,United States,Electronic Technology,Semiconductors,2230.7,1731.5,0.78,1158.6,686.1,68.9,11.14,9.44,10.3,2026-Q4
+45,NYSE:ENVA,True,Enova International Inc,United States,Finance,Finance/Rental/Leasing,4089.5,3652.6,0.89,2147.7,1714.5,25.3,10.89,10.47,24.19,2026-Q3
+46,NYSE:AGRO,True,Adecoagro S.A.,Luxembourg,Process Industries,Agricultural Commodities/Milling,1165.8,1856.1,1.59,1200.0,701.8,71.0,10.5,4.82,3.57,2026-Q3
+47,TSXV:NSCI,True,Nanalysis Scientific Corp,Canada,Health Technology,Medical Specialties,9.3,28.4,3.05,18.7,14.1,33.0,10.5,-10.35,-5.02,2026-Q2
+48,NYSE:COUR,True,Coursera Inc,United States,Commercial Services,Miscellaneous Commercial Services,934.7,1067.9,1.14,719.3,392.6,83.2,10.46,-14.36,-3.39,2026-Q3
+49,NYSE:MPC,True,Marathon Petroleum Corporation,United States,Energy Minerals,Oil Refining/Marketing,94283.2,174940.0,1.86,92519.9,67085.0,37.9,10.37,8.36,12.45,2026-Q3
+50,TSX:NEO,True,"Neo Performance Materials, Inc.",Canada,Process Industries,Chemicals: Specialty,694.5,657.4,0.95,379.9,267.1,42.3,10.14,1.42,15.5,2026-Q3
+51,NYSE:SOC,True,Sable Offshore Corp.,United States,Energy Minerals,Integrated Oil,106.6,292.8,2.75,374.5,1.3,29362.9,10.0,-202.46,-111.86,2026-Q3
+52,NYSE:SHEL,False,Shell Plc Sponsored ADR,United Kingdom,Energy Minerals,Integrated Oil,262983.6,321191.0,1.22,186880.6,133553.6,39.9,9.8,10.18,15.65,2026-Q3
+53,NASDAQ:NESR,True,National Energy Services Reunited Corp.,United States,Industrial Services,Oilfield Services/Equipment,1940.3,1828.3,0.94,1120.1,802.8,39.5,9.1,6.02,10.07,2026-Q3
+54,NYSE:EGY,True,"VAALCO Energy, Inc.",United States,Energy Minerals,Oil & Gas Production,500.7,435.8,0.87,324.2,153.6,111.0,9.09,-34.76,17.28,2026-Q3
+55,NYSE:BDC,True,Belden Inc.,United States,Producer Manufacturing,Electrical Products,3879.1,3132.6,0.81,1903.8,1416.5,34.4,9.02,5.62,11.85,2026-Q3
+56,NYSE:DELL,True,"Dell Technologies, Inc. Class C",United States,Electronic Technology,Computer Processing Hardware,188874.5,179056.0,0.95,112817.7,77205.0,46.1,8.99,8.66,11.24,2026-Q3
+57,NYSE:BWMX,True,"Betterware de Mexico, S.A.P.I. de C.V.",Mexico,Retail Trade,Specialty Stores,620.7,927.9,1.49,530.0,408.9,29.6,8.96,8.08,16.6,2026-Q3
+58,NASDAQ:MCHX,True,"Marchex, Inc. Class B",United States,Commercial Services,Advertising/Marketing Services,55.0,48.4,0.88,30.8,21.5,43.5,8.64,-6.56,-2.66,2026-Q3
+59,NASDAQ:MNTK,True,"Montauk Renewables, Inc.",United States,Process Industries,Industrial Specialties,142.3,194.0,1.36,125.5,89.8,39.8,8.47,2.51,-1.04,2026-Q3
+60,NASDAQ:KINS,True,Kingstone Companies Incorporated,United States,Finance,Insurance Brokers/Services,301.9,240.2,0.8,181.9,110.1,65.3,8.32,17.49,22.12,2026-Q3
+61,NYSE:PSX,True,Phillips 66,United States,Energy Minerals,Oil Refining/Marketing,92088.3,170307.0,1.85,88018.8,68091.0,29.3,8.26,7.38,9.62,2026-Q3
+62,NYSE:KMT,True,Kennametal Inc.,United States,Producer Manufacturing,Industrial Machinery,1738.7,2626.9,1.51,1670.8,1122.1,48.9,7.93,22.49,31.49,2027-Q1
+63,TSXV:LUCA,True,Luca Mining Corp,Canada,Non-Energy Minerals,Precious Metals,149.0,211.7,1.42,154.3,99.1,55.7,7.89,0.32,18.39,2026-Q2
+64,NYSE:DK,True,Delek US Holdings Inc,United States,Energy Minerals,Oil Refining/Marketing,3204.7,13561.6,4.23,7038.9,5082.5,38.5,7.88,8.71,14.35,2026-Q3
+65,NYSE:PBF,True,"PBF Energy, Inc. Class A",United States,Energy Minerals,Oil Refining/Marketing,6834.2,38854.9,5.69,20386.4,15043.8,35.5,7.82,6.98,8.37,2026-Q3
+66,NASDAQ:ARRY,True,Array Technologies Inc,United States,Producer Manufacturing,Electrical Products,641.8,1121.7,1.75,784.1,449.5,74.5,7.82,-9.91,0.02,2026-Q3
+67,NYSE:RS,True,"Reliance, Inc.",United States,Non-Energy Minerals,Steel,21181.6,17367.8,0.82,9804.4,7524.6,30.3,7.69,6.38,8.87,2026-Q3
+68,TSX:VCM,True,Vecima Networks Inc.,Canada,Consumer Durables,Electronics/Appliances,213.8,228.0,1.07,127.9,97.3,31.4,7.55,3.44,0.83,2027-Q1
+69,NYSE:PLGO,True,Pelagos Insurance Capital Limited,Bermuda,Finance,Multi-Line Insurance,2230.4,2660.8,1.19,2243.5,1210.8,85.3,7.53,12.47,16.72,2026-Q3
+70,TSX:ACX,True,ACT Energy Technologies Ltd.,Canada,Industrial Services,Contract Drilling,183.5,457.4,2.49,302.5,178.2,69.7,7.45,3.75,7.5,2026-Q3
+71,NASDAQ:BLBD,True,Blue Bird Corporation,United States,Consumer Durables,Motor Vehicles,1774.6,1612.2,0.91,996.9,742.4,34.3,7.43,17.48,11.77,2026-Q3
+72,NASDAQ:ICHR,True,"Ichor Holdings, Ltd.",United States,Producer Manufacturing,Industrial Machinery,963.5,1103.2,1.14,729.1,479.7,52.0,7.32,0.32,3.34,2026-Q3
+73,NASDAQ:UCTT,True,"Ultra Clean Holdings, Inc.",United States,Producer Manufacturing,Industrial Machinery,1688.7,2444.3,1.45,1707.0,1040.4,64.1,7.25,1.09,4.32,2026-Q3
+74,NYSE:CVI,True,"CVR Energy, Inc.",United States,Energy Minerals,Oil Refining/Marketing,3059.1,9809.0,3.21,5361.7,3790.0,41.5,6.9,2.7,10.64,2026-Q3
+75,TSX:MDP,True,Medexus Pharmaceuticals Inc.,Canada,Health Technology,Pharmaceuticals: Major,133.9,104.9,0.78,61.8,48.5,27.4,6.74,-1.12,6.94,2026-Q2
+76,TSX:CLS,True,Celestica Inc.,Canada,Electronic Technology,Electronic Components,24894.8,17777.6,0.71,13741.6,7477.8,83.8,6.7,6.84,8.63,2026-Q3
+77,NASDAQ:OCC,True,Optical Cable Corporation,United States,Electronic Technology,Telecommunications Equipment,68.5,82.8,1.21,49.3,36.3,36.0,6.28,3.1,4.23,2026-Q3
+78,NYSE:TEX,True,Terex Corporation,United States,Producer Manufacturing,Trucks/Construction/Farm Machinery,6632.7,7487.0,1.13,3947.9,3052.0,29.4,6.27,2.59,6.77,2026-Q3
+79,NYSE:SE,True,Sea Limited Sponsored ADR Class A,Singapore,Retail Trade,Internet Retail,38649.6,30319.4,0.78,18868.4,13949.4,35.3,6.26,5.79,7.82,2026-Q3
+80,NASDAQ:PICS,True,PicS N.V. Class A,Brazil,Commercial Services,Miscellaneous Commercial Services,681.6,3036.7,4.46,1622.9,1240.4,30.8,6.09,9.06,5.71,2026-Q3
+81,TSX:AKT,True,Akita Drilling Ltd.,Canada,Industrial Services,Contract Drilling,126.1,149.4,1.18,111.7,68.2,63.7,6.07,-4.53,-5.11,2026-Q3
+82,NASDAQ:LMB,True,"Limbach Holdings, Inc.",United States,Industrial Services,Engineering & Construction,636.1,729.6,1.15,428.8,325.7,31.6,5.81,4.23,5.52,2026-Q3
+83,NYSE:ECG,True,"Everus Construction Group, Inc.",United States,Industrial Services,Engineering & Construction,4036.1,4664.2,1.16,2723.2,2048.4,32.9,5.58,6.2,8.45,2026-Q3
+84,NASDAQ:SMCI,True,"Super Micro Computer, Inc.",United States,Electronic Technology,Computer Processing Hardware,15366.6,53991.1,3.51,38818.4,22925.5,69.3,5.49,6.27,8.62,2027-Q1
+85,NASDAQ:FLEX,True,Flex Ltd,United States,Electronic Technology,Electronic Production Equipment,24838.9,30954.0,1.25,19032.5,14535.0,30.9,5.48,3.35,5.9,2026-Q2
+86,NYSE:ECVT,True,Ecovyst Inc,United States,Process Industries,Chemicals: Specialty,1079.6,973.0,0.9,520.9,414.4,25.7,5.41,4.52,10.81,2026-Q3
+87,TSX:EXE,True,Extendicare Inc.,Canada,Health Services,Hospital/Nursing Management,1984.5,1521.3,0.77,907.5,651.2,39.4,5.24,6.06,8.73,2026-Q3
+88,TSX:RUS,True,Russel Metals Inc.,Canada,Distribution Services,Wholesale Distributors,2785.4,4204.0,1.51,2336.6,1764.2,32.4,5.18,5.12,6.37,2026-Q3
+89,NASDAQ:ALGT,True,Allegiant Travel Company,United States,Transportation,Airlines,2506.0,3293.7,1.31,2308.4,1388.6,66.2,5.15,1.62,9.21,2026-Q3
+90,NASDAQ:LGN,True,Legence Corp. Class A,United States,Industrial Services,Engineering & Construction,3632.4,4348.3,1.2,2495.9,1775.5,40.6,5.12,1.04,5.59,2026-Q3
+91,CSE:VREO,True,Vireo Growth Inc,United States,Process Industries,Agricultural Commodities/Milling,289.3,657.6,2.27,552.1,204.7,169.8,5.06,-9.61,7.95,2026-Q3
+92,NASDAQ:THRM,True,Gentherm Incorporated,United States,Producer Manufacturing,Auto Parts: OEM,1622.4,1597.8,0.98,1372.7,776.5,76.8,4.93,0.57,4.51,2026-Q3
+93,NASDAQ:PLXS,True,Plexus Corp.,United States,Electronic Technology,Electronic Production Equipment,4999.3,4965.0,0.99,2888.6,2233.6,29.3,4.76,4.08,4.88,2026-Q4
+94,NASDAQ:AVO,True,"Mission Produce, Inc.",United States,Process Industries,Agricultural Commodities/Milling,953.1,1338.5,1.4,780.7,597.6,30.6,4.69,0.12,3.83,2026-Q3
+95,NASDAQ:FINW,True,FinWise Bancorp,United States,Finance,Regional Banks,191.3,268.8,1.41,131.3,100.5,30.6,4.61,7.5,10.24,2026-Q3
+96,NYSE:FOA,True,"Finance of America Cos., Inc. Class A",United States,Finance,Finance/Rental/Leasing,90.0,264.6,2.94,231.5,132.7,74.4,4.61,-14.12,-58.08,2026-Q3
+97,NASDAQ:KVHI,True,"KVH Industries, Inc.",United States,Electronic Technology,Telecommunications Equipment,121.4,135.0,1.11,85.0,62.8,35.3,4.49,0.36,-1.75,2026-Q3
+98,NYSE:HOS,True,"Hornbeck Offshore Services, Inc.",United States,Industrial Services,Oilfield Services/Equipment,1183.1,1219.5,1.03,832.2,622.1,33.8,4.42,-6.2,5.69,2026-Q3
+99,NASDAQ:LYTS,True,LSI Industries Inc.,United States,Producer Manufacturing,Building Products,543.0,758.0,1.4,416.9,297.5,40.1,4.03,2.96,6.81,2027-Q1
+100,NYSE:SUZ,False,Suzano S.A. Sponsored ADR,Brazil,Process Industries,Pulp & Paper,11872.2,10025.9,0.84,6274.4,4517.5,38.9,3.85,16.01,16.82,2026-Q3
+101,TSX:BDT,True,Bird Construction Inc.,Canada,Industrial Services,Engineering & Construction,3057.6,2812.4,0.92,1507.2,1166.1,29.3,3.83,1.97,5.53,2026-Q3
+102,NASDAQ:RUSHA,True,"Rush Enterprises, Inc. Class A",United States,Retail Trade,Specialty Stores,5630.7,7468.9,1.33,4336.7,3456.1,25.5,3.78,3.7,5.08,2026-Q3
+103,NYSE:BW,True,Babcock & Wilcox Enterprises Inc,United States,Electronic Technology,Electronic Equipment/Instruments,544.0,985.9,1.81,551.1,375.4,46.8,3.78,2.49,4.08,2026-Q3
+104,NYSE:JBL,True,Jabil Inc.,United States,Producer Manufacturing,Industrial Machinery,23492.6,35954.0,1.53,21626.1,16587.0,30.4,3.75,2.9,5.11,2026-Q4
+105,NASDAQ:LSTR,True,"Landstar System, Inc.",United States,Transportation,Trucking,5136.9,5289.8,1.03,2938.6,2345.8,25.3,3.73,3.03,3.89,2026-Q3
+106,NASDAQ:BLIN,True,"Bridgeline Digital, Inc.",United States,Technology Services,Information Technology Services,6.4,15.6,2.46,10.2,7.8,30.4,3.72,-8.65,-8.78,2026-Q3
+107,NYSE:HNI,True,HNI Corporation,United States,Producer Manufacturing,Office Equipment/Supplies,3643.3,5301.2,1.46,2946.4,2235.9,31.8,3.66,1.0,6.04,2026-Q3
+108,NASDAQ:SLNG,True,"Stabilis Solutions, Inc.",United States,Energy Minerals,Oil & Gas Production,63.2,50.4,0.8,37.7,23.7,59.3,3.48,-17.43,-13.72,2026-Q3
+109,NASDAQ:TRT,True,Trio-Tech International,United States,Producer Manufacturing,Industrial Machinery,45.4,67.0,1.48,45.6,32.2,41.9,3.39,1.01,1.5,2027-Q1
+110,NYSE:OSCR,True,"Oscar Health, Inc. Class A",United States,Health Services,Managed Health Care,7416.5,17471.9,2.36,9826.8,7452.4,31.9,3.23,4.9,5.36,2026-Q3
+111,NYSE:NGL,True,NGL Energy Partners LP,United States,Industrial Services,Oil & Gas Pipelines,1726.2,3835.9,2.22,2666.0,1859.3,43.4,3.23,-5.36,11.39,2026-Q2
+112,NYSE:MLR,True,"Miller Industries, Inc.",United States,Consumer Durables,Motor Vehicles,539.1,805.0,1.49,496.8,352.8,40.8,3.09,2.15,3.2,2026-Q3
+113,NASDAQ:PTRN,True,"Pattern Group, Inc. Class A",United States,Commercial Services,Advertising/Marketing Services,3410.3,3259.5,0.96,1967.1,1496.8,31.4,2.98,3.61,4.25,2026-Q3
+114,NEO:JET,True,"Global Crossing Airlines Group, Inc.",United States,Transportation,Airlines,24.0,263.7,10.97,174.0,132.9,31.0,2.96,-0.11,4.79,2026-Q3
+115,NYSE:ARW,True,"Arrow Electronics, Inc.",United States,Distribution Services,Electronics Distributors,8682.2,38930.0,4.48,23202.7,18220.0,27.3,2.94,2.62,4.03,2026-Q3
+116,NASDAQ:AVT,True,"Avnet, Inc.",United States,Distribution Services,Electronics Distributors,6101.4,32452.1,5.32,22523.7,13438.7,67.6,2.94,1.74,3.72,2027-Q1
+117,NYSE:RERE,True,ATRenew Inc. Sponsored ADR,China,Retail Trade,Electronics/Appliance Stores,864.9,3699.8,4.28,2247.1,1771.7,26.8,2.89,2.1,2.67,2026-Q3
+118,AMEX:SUN,True,Sunoco LP,United States,Distribution Services,Wholesale Distributors,12801.5,51578.0,4.03,32773.5,19290.0,69.9,2.7,2.4,4.6,2026-Q3
+119,NASDAQ:CMCO,True,Columbus McKinnon Corporation,United States,Producer Manufacturing,Trucks/Construction/Farm Machinery,534.9,1767.2,3.3,1072.5,696.5,54.0,2.54,-19.61,3.62,2026-Q2
+120,NASDAQ:COSM,True,Cosmos Health Inc,Greece,Health Technology,Pharmaceuticals: Major,15.1,73.3,4.86,56.2,37.6,49.4,2.22,-33.14,-25.82,2026-Q3
+121,NASDAQ:PAA,True,"Plains All American Pipeline, L.P.",United States,Industrial Services,Oil & Gas Pipelines,16650.7,55742.0,3.35,30459.9,22938.0,32.8,2.04,1.78,2.78,2026-Q3
+122,NYSE:FOIL,True,"Londian Wason New Energy Tech, Inc. Unsponsored ADR",China,Non-Energy Minerals,Other Metals/Minerals,993.0,1851.8,1.86,1393.1,756.9,84.1,1.97,1.72,4.91,2026-Q1
+123,TSX:OGI,True,Organigram Global Inc.,Canada,Process Industries,Agricultural Commodities/Milling,84.3,217.7,2.58,165.3,101.1,63.5,1.96,28.02,-30.05,2026-Q3
+124,NASDAQ:ECX,True,"ECARX Holdings, Inc.",United Kingdom,Technology Services,Packaged Software,208.7,902.2,4.32,577.4,436.2,32.4,1.87,-7.67,-5.35,2026-Q3
+125,NASDAQ:AIRG,True,"Airgain, Inc.",United States,Electronic Technology,Semiconductors,47.0,52.7,1.12,31.2,23.6,32.2,1.8,-12.58,-12.67,2026-Q3
+126,NASDAQ:EQPT,True,"EquipmentShare.com, Inc. Class A",United States,Technology Services,Internet Software/Services,3761.7,5478.0,1.46,3298.2,2561.0,28.8,1.79,1.33,7.14,2026-Q3
+127,NASDAQ:CBAT,True,CBAK Energy Technology Limited,China,Producer Manufacturing,Electrical Products,79.7,229.9,2.88,203.7,101.4,100.8,1.74,-7.43,-11.0,2026-Q1
+128,NYSE:EVH,True,Evolent Health Inc Class A,United States,Commercial Services,Miscellaneous Commercial Services,442.2,2342.9,5.3,1558.6,965.0,61.5,1.73,-21.67,-1.3,2026-Q3
+129,TSX:TSU,True,Trisura Group Ltd.,Canada,Finance,Specialty Insurance,967.7,2308.5,2.39,3093.3,1142.6,170.7,1.6,4.38,84.71,2026-Q3
+130,NASDAQ:NXPL,True,NextPlat Corp,United States,Non-Energy Minerals,Precious Metals,19.2,45.0,2.35,31.0,22.7,36.8,1.59,-15.89,-12.11,2026-Q3
+131,NYSE:RYZ,True,Ryerson Holding Corporation,United States,Non-Energy Minerals,Steel,1429.3,6855.3,4.8,4255.7,2671.3,59.3,1.52,0.21,1.04,2026-Q3
+132,NYSE:WS,True,"Worthington Steel, Inc.",United States,Non-Energy Minerals,Steel,1882.2,5297.5,2.81,5570.0,1641.7,239.3,1.34,-0.63,2.57,2026-Q1
+133,NYSE:DCH,True,Dauch Corporation,United States,Producer Manufacturing,Auto Parts: OEM,998.1,9627.0,9.65,5104.7,3762.8,35.7,1.04,-2.26,3.44,2026-Q3
+134,NASDAQ:FKWL,True,Franklin Wireless Corp.,United States,Electronic Technology,Telecommunications Equipment,17.0,26.3,1.55,24.1,15.4,56.8,0.98,-23.24,-19.84,2027-Q1
+135,AMEX:SUNC,True,SunocoCorp LLC,United States,Distribution Services,Wholesale Distributors,3225.5,51578.0,15.99,32619.0,19290.0,69.1,0.78,0.44,4.77,2026-Q3
+136,NASDAQ:PAGP,True,Plains GP Holdings LP Class A,United States,Industrial Services,Oil & Gas Pipelines,5047.6,55742.0,11.04,29245.1,22938.0,27.5,0.63,-0.02,2.82,2026-Q3
+137,NASDAQ:SHIM,True,Shimmick Corporation,United States,Industrial Services,Engineering & Construction,153.9,430.9,2.8,281.3,188.4,49.3,0.53,-2.65,-1.05,2026-Q3
+138,NYSE:CAPL,True,CrossAmerica Partners LP,United States,Distribution Services,Wholesale Distributors,763.5,4081.7,5.35,2208.4,1708.1,29.3,0.52,1.17,5.58,2026-Q3
+139,NYSE:QXO,True,"QXO, Inc.",United States,Distribution Services,Wholesale Distributors,12448.3,12065.3,0.97,7966.0,3924.3,103.0,0.48,-4.11,-1.02,2026-Q3
+140,NYSE:PUMP,True,ProPetro Holding Corp.,United States,Industrial Services,Oilfield Services/Equipment,790.0,1221.6,1.55,700.8,560.4,25.1,0.37,0.16,0.09,2026-Q3
+141,NASDAQ:CLOV,True,Clover Health Investments Corp. Class A,United States,Finance,Life/Health Insurance,1997.2,2739.4,1.37,1663.0,1236.9,34.5,0.35,0.45,0.45,2026-Q3
+142,NYSE:GLP,True,Global Partners LP,United States,Distribution Services,Wholesale Distributors,1373.1,23446.2,17.08,17100.6,9969.7,71.5,0.35,0.84,2.54,2026-Q3
+143,NYSE:WKC,True,World Kinect Corporation,United States,Distribution Services,Wholesale Distributors,1838.4,45562.0,24.78,25252.8,18649.5,35.4,0.23,-0.37,0.78,2026-Q3
+144,TSXV:OGO,True,"Organto Foods, Inc.",Canada,Process Industries,Agricultural Commodities/Milling,21.6,58.6,2.72,36.7,21.1,73.7,0.0,-11.37,-2.64,2026-Q2
+145,NASDAQ:YQ,True,"17 Education & Technology Group, Inc. Unsponsored ADR",China,Technology Services,Internet Software/Services,27.1,35.9,1.32,31.0,8.3,274.0,-0.1,-45.5,-48.44,2026-Q2
+146,TSX:QTRH,True,Quarterhill Inc,Canada,Commercial Services,Miscellaneous Commercial Services,206.1,158.6,0.77,110.6,74.9,47.7,-0.39,-38.08,-5.99,2026-Q3
+147,NYSE:NIO,True,NIO Inc. Sponsored ADR Class A,China,Consumer Durables,Motor Vehicles,6013.5,16340.3,2.72,10192.4,7931.8,28.5,-0.63,-4.11,-3.65,2026-Q2
+148,NYSE:DFH,True,"Dream Finders Homes, Inc. Class A",United States,Consumer Durables,Homebuilding,1027.6,4160.0,4.05,2786.8,2100.5,32.7,-0.63,2.56,3.04,2026-Q3
+149,NASDAQ:PAL,True,"Proficient Auto Logistics, Inc.",United States,Transportation,Trucking,85.3,457.4,5.36,360.8,199.1,81.2,-0.71,-10.06,2.03,2026-Q3
+150,NASDAQ:NCMI,True,"National CineMedia, Inc.",United States,Commercial Services,Advertising/Marketing Services,145.4,247.0,1.7,171.4,127.2,34.7,-0.73,-10.69,-10.73,2026-Q3
+151,NYSE:BKKT,True,"Bakkt, Inc. Class A",United States,Commercial Services,Miscellaneous Commercial Services,97.9,862.1,8.8,1470.5,542.8,170.9,-0.87,2.49,-13.17,2026-Q3
+152,NASDAQ:VERI,True,"Veritone, Inc.",United States,Commercial Services,Advertising/Marketing Services,36.8,81.2,2.21,65.4,38.4,70.5,-0.93,-120.41,-93.85,2026-Q3
+153,NASDAQ:KC,True,Kingsoft Cloud Holdings Ltd. Sponsored ADR,China,Technology Services,Data Processing Services,1814.2,1747.1,0.96,1031.8,779.9,32.3,-1.2,-5.84,-1.31,2026-Q3
+154,NASDAQ:CDNL,True,"Cardinal Infrastructure Group, Inc.",United States,Industrial Services,Engineering & Construction,299.0,742.2,2.48,423.3,313.3,35.1,-1.27,0.9,4.53,2026-Q3
+155,NASDAQ:ALHC,True,"Alignment Healthcare, Inc.",United States,Health Services,Managed Health Care,1383.3,4941.9,3.57,2902.0,2248.0,29.1,-1.45,0.59,0.88,2026-Q3
+156,NYSE:HIMS,True,"Hims & Hers Health, Inc. Class A",United States,Health Services,Medical/Nursing Services,3434.1,2869.5,0.84,1788.8,1225.9,45.9,-1.6,-6.65,-1.4,2026-Q3
+157,NASDAQ:KPLT,True,"Katapult Holdings, Inc.",United States,Commercial Services,Miscellaneous Commercial Services,711.0,981.6,1.38,2040.0,152.9,1234.2,-1.66,-0.68,9.96,2026-Q3
+158,NYSE:XPEV,False,"XPeng, Inc. ADR Sponsored Class A",China,Consumer Durables,Motor Vehicles,8623.7,11522.1,1.34,8071.5,5020.9,60.8,-1.79,-4.59,-6.79,2026-Q3
+159,NASDAQ:CNVS,True,Cineverse Corp. Class A,United States,Consumer Services,Movies/Entertainment,45.1,98.8,2.19,64.9,42.3,53.6,-1.86,-2.15,-8.78,2026-Q2
+160,NASDAQ:PETS,True,"PetMed Express, Inc.",United States,Retail Trade,Specialty Stores,20.0,160.3,8.01,111.0,83.5,33.0,-2.0,-16.97,-17.98,2026-Q2
+161,NYSE:MBC,True,MasterBrand Inc,United States,Consumer Durables,Home Furnishings,1441.1,3114.6,2.16,1907.8,1262.6,51.1,-2.06,-3.99,-1.26,2026-Q3
+162,NASDAQ:DERM,True,Journey Medical Corp.,United States,Health Technology,Pharmaceuticals: Major,97.4,69.5,0.71,40.2,32.0,25.4,-2.11,-7.34,-2.89,2026-Q3
+163,NASDAQ:STLN,True,Starling Oncology Inc.,United States,Health Services,Medical/Nursing Services,325.4,620.4,1.91,375.4,289.4,29.7,-2.22,-4.84,-3.26,2026-Q3
+164,NYSE:SKYD,True,Skydance Corporation Class B,United States,Consumer Services,Cable/Satellite TV,32938.8,29433.0,0.89,35113.7,15495.0,126.6,-2.29,-0.99,7.28,2026-Q3
+165,NASDAQ:ISPR,True,"Ispire Technology, Inc.",United States,Producer Manufacturing,Industrial Conglomerates,79.7,93.2,1.17,53.0,39.0,36.0,-2.72,-39.04,-38.67,2027-Q1
+166,NASDAQ:ULCC,True,"Frontier Group Holdings, Inc.",United States,Transportation,Airlines,1815.7,4623.0,2.55,2563.5,1989.0,28.9,-3.09,-8.93,-15.36,2026-Q3
+167,AMEX:LSF,True,"Laird Superfood, Inc.",United States,Consumer Non-Durables,Food: Specialty/Candy,23.6,110.5,4.68,83.3,27.3,205.2,-3.15,-0.08,4.36,2026-Q3
+168,NYSE:COMP,True,Compass Inc Class A,United States,Finance,Real Estate Development,8144.7,12606.8,1.55,6110.5,4403.8,38.8,-4.21,1.06,0.79,2026-Q3
+169,NASDAQ:GPRO,True,"GoPro, Inc. Class A",United States,Consumer Durables,Electronics/Appliances,118.9,501.9,4.22,396.3,300.7,31.8,-4.39,-44.15,-28.76,2026-Q3
+170,NASDAQ:CREX,True,"Creative Realities, Inc.",United States,Commercial Services,Advertising/Marketing Services,27.6,88.0,3.19,56.2,40.3,39.5,-4.58,-19.19,-12.34,2026-Q3
+171,NYSE:WNC,True,Wabash National Corporation,United States,Producer Manufacturing,Trucks/Construction/Farm Machinery,441.6,1518.3,3.44,815.1,624.7,30.5,-5.03,-9.13,-10.2,2026-Q3
+172,NASDAQ:INSG,True,Inseego Corp.,United States,Electronic Technology,Telecommunications Equipment,64.2,160.0,2.49,125.8,82.7,52.1,-5.12,-12.88,-7.26,2026-Q3
+173,NASDAQ:SY,True,"So-Young International, Inc. Sponsored ADR Class A",China,Technology Services,Internet Software/Services,172.1,255.7,1.49,158.3,119.0,33.1,-6.33,-13.6,-15.44,2026-Q2
+174,NYSE:DQ,True,Daqo New Energy Corp Sponsored ADR,China,Process Industries,Chemicals: Specialty,592.8,506.9,0.86,332.3,249.5,33.2,-6.34,-45.42,-70.27,2026-Q3
+175,NASDAQ:OPAD,True,"Offerpad Solutions, Inc. Class A",United States,Technology Services,Internet Software/Services,6.4,349.9,54.49,271.9,194.2,40.0,-6.44,-11.34,-9.7,2026-Q3
+176,NASDAQ:NXH,True,Neighborhood Intelligence Inc,United States,Retail Trade,Internet Retail,143.0,1391.7,9.73,979.4,521.2,87.9,-7.01,-7.4,-9.41,2026-Q3
+177,NASDAQ:FLNC,True,"Fluence Energy, Inc. Class A",United States,Producer Manufacturing,Electrical Products,871.5,2333.2,2.68,1188.8,940.1,26.4,-7.23,-8.81,-12.05,2026-Q4
+178,NASDAQ:FTCI,True,"FTC Solar, Inc.",United States,Technology Services,Packaged Software,11.7,109.1,9.29,106.6,50.1,112.7,-7.73,-19.76,-34.81,2026-Q3
+179,NASDAQ:RDZN,True,"Roadzen, Inc.",United States,Technology Services,Packaged Software,87.0,64.3,0.74,44.4,30.5,45.7,-7.76,-47.12,-19.01,2026-Q2
+180,NASDAQ:TLRY,True,"Tilray Brands, Inc.",Canada,Process Industries,Agricultural Commodities/Milling,270.5,963.1,3.56,531.4,424.2,25.3,-8.23,-17.05,-6.28,2026-Q1
+181,NASDAQ:XTIA,True,"XTI Aerospace, Inc.",United States,Technology Services,Information Technology Services,31.3,117.9,3.77,67.4,50.2,34.3,-9.71,-18.39,-32.08,2026-Q3
+182,NASDAQ:PPSI,True,"Pioneer Power Solutions, Inc.",United States,Producer Manufacturing,Electrical Products,22.5,20.0,0.89,14.4,9.9,45.1,-12.37,-40.04,-32.71,2026-Q3
+183,AMEX:EXOD,True,"Exodus Movement, Inc. Class A",United States,Technology Services,Packaged Software,108.0,110.9,1.03,72.1,52.1,38.2,-12.63,-101.18,-67.14,2026-Q3
+184,NASDAQ:QTI,True,"QT Imaging Holdings, Inc.",United States,Finance,Financial Conglomerates,27.0,29.6,1.09,20.6,14.8,39.1,-12.84,-54.63,-24.89,2026-Q3
+185,NASDAQ:OPEN,True,Opendoor Technologies Inc,United States,Finance,Real Estate Development,1172.1,3361.0,2.87,2341.5,1456.0,60.8,-15.57,-49.06,-18.83,2026-Q3
+186,NASDAQ:GLOO,True,"Gloo Holdings, Inc. Class A",United States,Technology Services,Packaged Software,216.9,154.3,0.71,112.0,66.2,69.3,-16.34,-81.35,-65.44,2026-Q2
+187,NASDAQ:SKYX,True,SKYX Platforms Corp.,United States,Electronic Technology,Electronic Equipment/Instruments,89.7,98.0,1.09,62.7,47.0,33.3,-19.34,-32.52,-28.63,2026-Q3
+188,NASDAQ:AMTX,True,"Aemetis, Inc.",United States,Process Industries,Chemicals: Specialty,59.3,259.1,4.37,150.0,108.3,38.5,-19.39,-12.04,6.87,2026-Q3
+189,NASDAQ:BTDR,True,Bitdeer Technologies Group Class A,Singapore,Technology Services,Data Processing Services,842.4,963.3,1.14,720.3,413.8,74.1,-20.32,-31.85,-28.85,2026-Q3
+190,NASDAQ:SMSI,True,"Smith Micro Software, Inc.",United States,Technology Services,Packaged Software,12.5,17.6,1.41,11.6,8.2,40.9,-21.04,-72.9,-65.9,2026-Q3
+191,NASDAQ:PRE,True,Prenetics Global Limited Class A,Hong Kong,Finance,Financial Conglomerates,169.9,183.1,1.08,162.0,72.5,123.5,-23.54,-49.01,-33.09,2026-Q3
+192,NASDAQ:VNDA,True,Vanda Pharmaceuticals Inc.,United States,Health Technology,Pharmaceuticals: Major,235.8,229.3,0.97,142.0,108.9,30.4,-23.67,-119.87,-77.59,2026-Q3
+193,NASDAQ:GRRR,True,"Gorilla Technology Group, Inc.",United Kingdom,Technology Services,Packaged Software,242.7,183.4,0.76,146.2,63.8,129.2,-26.54,-36.11,-24.74,2026-Q3
+194,NASDAQ:LFWD,True,Lifeward Ltd.,United States,Health Technology,Medical Specialties,8.9,21.1,2.38,16.4,9.0,81.6,-26.56,-155.36,-98.21,2026-Q3
+195,TSX:LGO,True,Largo Inc.,Canada,Non-Energy Minerals,Other Metals/Minerals,22.7,125.4,5.53,67.9,48.3,40.6,-28.78,-59.68,-40.5,2026-Q3
+196,NASDAQ:HYFM,True,"Hydrofarm Holdings Group, Inc.",United States,Producer Manufacturing,Trucks/Construction/Farm Machinery,7.5,91.3,12.2,105.0,53.6,95.8,-29.14,-301.35,-23.29,2026-Q3
+197,NYSE:SRFM,True,"Surf Air Mobility, Inc.",United States,Transportation,Airlines,48.2,118.0,2.45,75.1,52.1,44.2,-40.45,-89.51,-62.69,2026-Q3
+198,NASDAQ:WKHS,True,Workhorse Group Inc,United States,Consumer Durables,Motor Vehicles,21.3,26.5,1.25,29.2,16.8,73.5,-43.37,-311.46,-244.0,2026-Q3
+199,AMEX:PTHS,True,Pelthos Therapeutics Inc.,United States,Health Technology,Pharmaceuticals: Major,37.3,51.3,1.38,33.3,20.3,64.2,-43.51,-152.16,-101.59,2026-Q3
+200,NASDAQ:LIQT,True,"LiqTech International, Inc.",Denmark,Producer Manufacturing,Industrial Machinery,6.1,16.0,2.62,11.0,7.3,51.5,-44.93,-63.39,-56.7,2026-Q3
+201,NASDAQ:INTZ,True,Intrusion Inc.,United States,Technology Services,Information Technology Services,6.9,6.5,0.94,6.0,2.4,153.2,-46.0,-182.75,-180.09,2026-Q3
+202,NASDAQ:WKSP,True,Worksport Ltd,United States,Producer Manufacturing,Auto Parts: OEM,5.9,20.5,3.49,14.4,8.1,79.2,-53.34,-95.65,-91.76,2026-Q3
+203,NASDAQ:DRK,True,DarkHorse Technologies Inc.,United States,Technology Services,Information Technology Services,12.7,10.1,0.8,7.5,4.6,60.6,-83.85,-334.21,-150.45,2026-Q3
