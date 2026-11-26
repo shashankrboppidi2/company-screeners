@@ -11,7 +11,11 @@
 
 and ranks the survivors by TTM operating margin, best first.
 
-    python3 screen_growth_value.py results.csv
+    python3 screen_growth_value.py results.csv                              # global, primary listings
+    python3 screen_growth_value.py results_us_canada.csv --north-america    # US and Canadian exchanges only
+
+The US/Canada run covers NYSE, NASDAQ, NYSE American, Cboe, TSX, TSXV, CSE and Cboe Canada,
+including foreign companies' ADRs; OTC-traded names are not counted as listed.
 
 Data comes from the TradingView global screener. Companies with no analyst revenue estimate
-cannot be tested for expected growth and are left out. `results.csv` holds the run of 2026-11-26.
+cannot be tested for expected growth and are left out. The CSVs hold the runs of 2026-11-26.
